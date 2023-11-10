@@ -3,7 +3,7 @@
 
 import java.util.Scanner;
 
-public class renshuu {
+public class scannerRenshuu {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int kor, eng, math;
