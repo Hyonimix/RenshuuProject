@@ -3,6 +3,8 @@
 
 public class kisuuGugu {
     public static void main(String[] args) {
+        int i;
+        int j;
         for (i = 2; i <= 9; i++) {
             if (i % 2 == 1) {
                 for (j = 1; j <= 9; j++) {
