@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "sumto100",
+            "request": "launch",
+            "mainClass": "sumto100",
+            "projectName": "DBProject"
+        },
+        {
+            "type": "java",
             "name": "guusuuGugu2",
             "request": "launch",
             "mainClass": "guusuuGugu2",
