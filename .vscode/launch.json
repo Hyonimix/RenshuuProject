@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ronnriensanRenshuu",
+            "request": "launch",
+            "mainClass": "ronnriensanRenshuu",
+            "projectName": "DBProject"
+        },
+        {
+            "type": "java",
+            "name": "saishoukyouhaisuu",
+            "request": "launch",
+            "mainClass": "saishoukyouhaisuu",
+            "projectName": "DBProject"
+        },
+        {
+            "type": "java",
             "name": "sumto100",
             "request": "launch",
             "mainClass": "sumto100",
